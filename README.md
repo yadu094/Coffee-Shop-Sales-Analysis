@@ -114,3 +114,9 @@ Aspiring Data Analyst | Business Analyst
 ---
 
 ⭐ If you find this project interesting, feel free to explore the repository!
+
+---
+
+## 📸 Dashboard Preview
+
+![Coffee Shop Sales Dashboard](Screenshot%202026-10-10%20125359.png)
